@@ -12,3 +12,6 @@ Data Analsyt team for CIB  1(นักวิเคราะห์ข้อมู
 7. ML / Gerenative AI
 8. Promt Engineering
 9. Github
+
+## Image
+(![alt Data Analsyt](https://images8.alphacoders.com/547/547101.jpg)
