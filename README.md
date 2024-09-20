@@ -15,3 +15,8 @@ Data Analsyt team for CIB  1(นักวิเคราะห์ข้อมู
 
 ## Image
 (![alt Data Analsyt](https://images8.alphacoders.com/547/547101.jpg)
+
+## contact ME
+สามรถติดต่อได้ที่ Mr.Ohwen 
+www.ohwen.Mr.
+
